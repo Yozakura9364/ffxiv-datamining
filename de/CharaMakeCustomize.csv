@@ -1,5 +1,5 @@
 key,0,1,2,3,4,5,6
-#,Icon,Hint,HintItem,UnlockLink,FeatureID,Unknown0,IsPurchasable
+#,Icon,Hint,HintItem,Data,FeatureID,Unknown0,IsPurchasable
 int32,uint32,uint32,uint32,uint16,uint8,uint8,bool
 0,0,0,0,0,0,0,False
 1,131001,0,0,0,1,0,False
