@@ -1,7 +1,7 @@
 key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
 #,Singular,Plural,Description,Name,Adjective,PossessivePronoun,StartsWithVowel,Unknown_70_4,Pronoun,Article,Model,Icon,Unknown_70_8,GlassesStyle
 int32,str,str,str,str,int8,int8,int8,int8,int8,int8,uint32,int32,uint16,uint32
-0,,,,,0,0,0,1,0,0,0,0,0,4294967295
+0,,,,,0,0,0,1,0,0,0,0,0,-1
 1,椭圆眼镜,,基础色的面部配饰。,椭圆眼镜,0,0,0,1,0,0,71037,200049,0,0
 2,银框椭圆眼镜,,银色的面部配饰。,银框椭圆眼镜,0,0,0,1,0,0,136573,200053,0,0
 3,金框椭圆眼镜,,金色的面部配饰。,金框椭圆眼镜,0,0,0,1,0,0,202109,200052,0,0
